@@ -2,6 +2,9 @@
 I'M created friendly medical bot in future ready talent internship.
 demo vedio  https://youtu.be/_eifjq2r6QY
 
+Bot  deploy in telegram 
+<a href='https://telegram.me/RMEDICALROBOT'>@RMEDICALROBOT</a>
+
 
 Problem Statement : In Indian region  most of cases girls always hesitate to talk about their self  and changes in their body at teen age duration , sometime even they don't know why this changes happen with them.
 Solution : A friendly  bot which is always present in their phone with good knowledge of female body changes and guided her best advice .
